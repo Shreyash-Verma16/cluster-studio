@@ -31,6 +31,12 @@ Cluster Studio is a software product under Labs Spark.
 
 Under development.
 
+## Usage & Rights
+
+© 2026 Shreyash Verma / Labs Spark. All rights reserved.
+
+The Cluster Studio product concepts, documentation, and associated materials in this repository are proprietary and **not** open-source. You may view this repository for reference only and may **not** copy, modify, redistribute, or use these materials in personal, academic, or commercial projects without prior written permission from the owner.
+
 ---
 
 Built with curiosity. Developed with purpose.
